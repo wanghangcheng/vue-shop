@@ -1,0 +1,6 @@
+{ 
+    "_id" : "uxC9oZKkWk1WZC6AN4VkkBJthyutoajc", 
+    "expires" : ISODate("2020-10-13T09:29:01.409+0000"), 
+    "lastModified" : ISODate("2020-10-13T08:59:01.409+0000"), 
+    "session" : "{\"cookie\":{\"originalMaxAge\":1800000,\"expires\":\"2020-10-13T09:29:01.409Z\",\"httpOnly\":true,\"path\":\"/\"}}"
+}

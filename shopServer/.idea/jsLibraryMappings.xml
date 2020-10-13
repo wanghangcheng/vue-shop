@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/axios-cancel, @types/express, @types/html, @types/jquery, @types/jquery.ui.layout, @types/jquerymobile, @types/mongodb, @types/mongoose, @types/node, vue, vue-router, vuex}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+  </component>
+</project>

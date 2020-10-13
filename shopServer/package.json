@@ -1,0 +1,29 @@
+{
+  "name": "shopServer",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "set PORT=3000 && nodemon main.js",
+    "build": "babel src -d dist",
+    "start": "node dist/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "connect-mongo": "^3.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "formidable": "^1.2.1",
+    "mongoose": "^5.6.3",
+    "nunjucks": "^3.2.0",
+    "svg-captcha": "^1.4.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}

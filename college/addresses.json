@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("5f72d58a5be5f851a4f25f93"), 
+    "address_tag" : true, 
+    "ctime" : "1601359661370", 
+    "user_id" : ObjectId("5f62b2b8b2a91412a4728115"), 
+    "address_name" : "测试", 
+    "address_phone" : "18199999999", 
+    "address_area" : "河北省邢台市桥东区", 
+    "address_area_detail" : "的我所", 
+    "address_post_code" : "321686", 
+    "province" : "河北省", 
+    "city" : "邢台市", 
+    "county" : "桥东区", 
+    "areaCode" : "130502", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f72e68f98e6e060943253fb"), 
+    "address_tag" : false, 
+    "ctime" : "1601365612119", 
+    "user_id" : ObjectId("5f62b2b8b2a91412a4728115"), 
+    "address_name" : "带娃", 
+    "address_phone" : "18789898989", 
+    "address_area" : "辽宁省本溪市本溪满族自治县", 
+    "address_area_detail" : "达瓦大", 
+    "address_post_code" : "965964", 
+    "province" : "辽宁省", 
+    "city" : "本溪市", 
+    "county" : "本溪满族自治县", 
+    "areaCode" : "210521", 
+    "__v" : NumberInt(0)
+}
