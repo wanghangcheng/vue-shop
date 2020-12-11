@@ -2,4 +2,4 @@
 ### college为MongoDB数据库文档
 ### vue-shop为客户端源码
 ### shopServer为服务端源码
-![图片1](https://github.com/wanghangcheng/ImageRespsitory/image/vue_shop_01.png)
+![图片1](https://github.com/wanghangcheng/raw/master/ImageRespsitory/image/vue_shop_01.png)
